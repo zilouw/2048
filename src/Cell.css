@@ -1,0 +1,45 @@
+.number {
+  color: black;
+  font-size: 35px;
+  width: 8rem;
+  height: 8rem;
+  background-color: green;
+}
+
+.number-0 {
+  color: transparent;
+  background-color: lightgrey;
+}
+.number-2 {
+  background-color: lightslategrey;
+}
+.number-4 {
+  background-color: grey;
+}
+.number-8 {
+  background-color: darkgrey;
+}
+.number-16 {
+  background-color: lightsteelblue;
+}
+.number-32 {
+  background-color: lightskyblue;
+}
+.number-64 {
+  background-color: lightseagreen;
+}
+.number-128 {
+  background-color: turquoise;
+}
+.number-256 {
+  background-color: lightsalmon;
+}
+.number-512 {
+  background-color: orange;
+}
+.number-1024 {
+  background-color: orangered;
+}
+.number-2048 {
+  background-color: red;
+}
