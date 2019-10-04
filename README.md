@@ -1,3 +1,6 @@
+This is a react version of the game 2048.
+Following is the readme of the create react app bootstrapper.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
